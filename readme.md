@@ -100,9 +100,10 @@ Manually implemented using:
 * ✅ **Comparison of different kernels**
 * ✅ **Easy-to-understand implementation**
 
+
 ---
 
-## 👨‍💻 **Author**
-
-**Mohd Uzaif**
-🎓 *M.Tech (AI & ML), Jamia Millia Islamia University*
+## 👨‍💻 Author  
+**Mohd Uzaif**  
+🎓 *M.Tech (AI & ML), Jamia Millia Islamia University*   
+---
